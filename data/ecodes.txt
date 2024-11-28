@@ -1,0 +1,23 @@
+Initial Error codes for MAIN-Dmx
+
++++++++++++++++++++++++++++++++++
+#################################
++++++++++++++++++++++++++++++++++
+
+Version: 1.0
+If there is no error code, that you expect, try a newer version!
+LeopardenGames® 2024
+---------------------------------------------------------------------------------------------------------------------------------
+Error - Code				|		Error									-
+---------------------------------------------------------------------------------------------------------------------------------
+
+100					 Fehler beim Abrufen einer Datei
+101					 Fehlende Bibliothek (Python)
+102					 Fehler beim Aufbauen einer Verbindung zu GitHub.com
+103					 Fehler beim Ausführen einer Datei
+104					 Nicht erkannte User Version der App
+105					 App neustart Fehlgeschlagen: Bootloader nicht Gefunden: scr/boot.py
+211					 Datei nicht Gefunden: versions/version.txt
+305					 Fehler beim Versions-check: Version.txt gefunden aber nicht erkannt
+306					 Fehler beim Versions-check: Fehler beim aufbau der Verbindung
+404					 Fehler beim Aufbau einer Verbindung
